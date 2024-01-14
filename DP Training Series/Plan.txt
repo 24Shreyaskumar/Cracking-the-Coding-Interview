@@ -1,0 +1,9 @@
+_________________________________________________________________________
+|*********************************GOALS*********************************|
+|1: Striver DP series.                                                  |
+|2: GFG DP Series.                                                      |
+|3: Pepcoding DP series.                                                |
+|4: Code forces DP series (errichto algorithms).                        |
+|5: CSES problem set DP problems.                                       |
+|6: practice problems on leetcode, coding ninjas, gfg and codeforces.   |
+|_______________________________________________________________________|
