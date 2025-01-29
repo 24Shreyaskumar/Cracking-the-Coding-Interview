@@ -3,7 +3,7 @@ We need to find the power set of a given string using bitwise operators.
 E.g.
 
 s = "abc"
-power set -> {"", "a", "b", "c", "ab", "bc", "ac", "abc"}.alignas
+power set -> {"", "a", "b", "c", "ab", "bc", "ac", "abc"}
 
 Note that the order doesn't matter.
 */
